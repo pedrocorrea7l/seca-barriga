@@ -1,0 +1,6 @@
+{
+  "name": "Desafio Seca Barriga",
+  "description": "Página de vendas (VSL) para o Desafio Seca Barriga em 21 Dias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
